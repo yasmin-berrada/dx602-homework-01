@@ -17,8 +17,6 @@ Choose whichever option works best for your situation.
   * **Option A or C**: Click on the notebook and select **Download Raw File** to save it to your local machine. <img width="221" height="85" alt="Image" src="https://github.com/user-attachments/assets/8d01095a-080b-45e3-98e9-7b1cf3dff054" />
   * **Option B (Codespaces)**: You don't need to download; you will open the notebook directly in Codespaces.
 
-* **This assignment also includes 4 data files with names ending in TSV.** Download these files too.
-
 ### Running the Notebook
 
 #### Option A: As a Local File
@@ -44,9 +42,6 @@ Choose whichever option works best for your situation.
   * Click on **File > Upload notebook** and
     * Browse for your downloaded file, or
     * Bypass the download step specified above and download from GitHub directly.
-  * Upload the data files that you previously downloaded.
-    * <img width="78" height="77" alt="Image" src="https://github.com/user-attachments/assets/03eff542-a4d7-4e84-a4ce-775d1d358a59" />
-    * Drag and drop the data files into the file pane that appears.
 * Edit and run the notebook as needed to complete the assignment.
 * Download the notebook:
   * Be sure to **Restart the Kernel and Run All Cells** before downloading!
